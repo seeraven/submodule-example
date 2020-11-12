@@ -1,0 +1,6 @@
+[submodule "dmdcache"]
+	path = dmdcache
+	url = https://github.com/seeraven/dmdcache
+[submodule "gitcache"]
+	path = gitcache
+	url = ../gitcache
